@@ -35,4 +35,10 @@ helping businesses make data-driven decisions.
 
 ## AZURE KEY VAULT:
 
-Here, we have used Azure Key vault to store secret keys for more secured connection.   
+Here, we have used Azure Key vault to store secret keys for more secured connection. 
+
+## Trigger:
+
+commonly used in Azure services to automate processes and enable event-driven architectures.
+Here in our project we used Storage Trigger as we insert those zip files in blob storage Trigger starts its execution and 
+completes the entire workflow
